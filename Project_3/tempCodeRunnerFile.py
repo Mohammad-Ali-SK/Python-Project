@@ -1,2 +1,2 @@
-e:
-    #     query = take
+
+root.mainloop()

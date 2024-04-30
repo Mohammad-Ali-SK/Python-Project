@@ -35,39 +35,9 @@
 # print(f"Speed : {speed_time(time_1,time_2,testinput)}, w/sec")
 # print(f"Error : {mistake(test1,testinput)}")
 
-from time import *
 
 
-def mistake(partest,usertest):
-    error = 0
-    for i in range(len(partest)):
-        try:
-            if partest[i] != usertest[i]:
-                error = error + 1
-        except:
-            error = error + 1
-    return error
+import qrcode as qr
 
-def speed(time_1,time_2,userin):
-    delay = time_2-time_1
-    time_R = round(delay,2)
-    speed = len(user_in)/time_R
-    return round(speed)
-    
-
-
-
-test = 'Hey i am Mohammad Ali sk and i am from india'
-
-print("****Typing Test*****")
-print(test)
-print()
-print()
-
-
-time_1 = time()
-user_in = input('Enter:_')
-time_2 = time()
-
-print(f"Speed : {speed(time_1,time_2,user_in)} w/s")
-print(f"Error : {mistake(test,user_in)}")
+img = qr.make(9883367897)
+img.save("Phonepiay.png")
