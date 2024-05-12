@@ -1,10 +1,12 @@
 **Make Some python Project ----
-1.Create QR Code genaretor.
+1.Create QR Code genaretor.✅
 2.Check Right Email or Not.
-3.Jarvis Programing
-4.Email send multiple or single.
-5.Test Typing Speed using python code.
-6.Create your personal Google Translator ---30/4/24
-7.Text to Handwriting Using python.      ---30/4/24
-8.Speed Test -                           ---12/5/24
-9.Website Blocker                        ---12/5/24
+3.Jarvis Programing✅
+4.Email send multiple or single.✅
+5.Test Typing Speed using python code.✅
+6.Create your personal Google Translator ---30/4/24✅
+7.Text to Handwriting Using python.      ---30/4/24✅
+8.Speed Test -                           ---12/5/24✅
+9.Website Blocker                        ---12/5/24✅
+10.Program to shutdown                   ---12/5/24✅
+
