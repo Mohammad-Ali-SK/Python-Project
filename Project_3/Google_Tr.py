@@ -20,7 +20,6 @@ def data():
     dest_text.insert(END,textget)
     
     
-    
 
 root = Tk()
 root.title("ali_translator")
