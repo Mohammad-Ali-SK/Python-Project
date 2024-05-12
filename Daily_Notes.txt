@@ -9,4 +9,7 @@
 8.Speed Test -                           ---12/5/24✅
 9.Website Blocker                        ---12/5/24✅
 10.Program to shutdown                   ---12/5/24✅
-
+11.Mini Hotel Project                    ---12/5/24✅
+12.Paper Game                            ---12/5/24✅
+13.To-Do list                            ---12/5/24✅
+14.Break-Notification                    ---12/5/24✅
