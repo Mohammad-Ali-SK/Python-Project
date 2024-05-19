@@ -13,3 +13,9 @@
 12.Paper Game                            ---12/5/24✅
 13.To-Do list                            ---12/5/24✅
 14.Break-Notification                    ---12/5/24✅
+15.What's app Automatic Massage Send     ---12/5/24✅
+16.Change File Path .py to .exe          ---12/5/24✅
+17.Dictionary and Sets in python         ---13/5/25✅
+18.Convert Python code into Androide Apk ---13/5/25✅
+19.Face Detection in python              ---18/5/24✅
+20.Weather App Using Python              ---19/5/24✅
